@@ -9,7 +9,9 @@ This repositories contains some of the publicly disclosed vulnerabilities that I
 ## Table of contents - chronologically
 
 * 2020
-    * [Online Weather](Online_Weather)
+    * [CVE-2020-9407 - Information disclsure in cookie](Online_Weather/CVE-2020-9407)
+    * [CVE-2020-9406 - Command injection in queryBCP method](Online_Weather/CVE-2020-9406)
+    * [CVE-2020-9405 - Reflected XSS in redirect page](Online_Weather/CVE-2020-9405)
     * [CVE-2020-8894 - Mishandling of discussion threads ACL](MISP/CVE-2020-8894)  
     * [CVE-2020-8893 - Reflected XSS in Galaxy view](MISP/CVE-2020-8893)
     * [CVE-2020-8890 - Bruteforce protection not working in very specific environments](MISP/CVE-2020-8890)
@@ -32,3 +34,6 @@ This repositories contains some of the publicly disclosed vulnerabilities that I
 * [Mistune](Mistune)
     * [CVE-2017-16876 - Stored XSS vulnerability in the \_keyify function](Mistune/CVE-2017-16876)
 * [Online Weather](Online_Weather)
+    * [CVE-2020-9407 - Information disclsure in cookie](Online_Weather/CVE-2020-9407)
+    * [CVE-2020-9406 - Command injection in queryBCP method](Online_Weather/CVE-2020-9406)
+    * [CVE-2020-9405 - Reflected XSS in redirect page](Online_Weather/CVE-2020-9405)
