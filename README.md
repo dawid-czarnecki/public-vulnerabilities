@@ -9,6 +9,8 @@ This repositories contains some of the publicly disclosed vulnerabilities that I
 ## Table of contents - chronologically
 
 * 2020
+    * [CVE-2020-25216 - XSLT Remote Code Execution in XML when opening XML files together with custom stylesheets](yEd/CVE-2020-25216)
+    * [CVE-2020-25215 - XML External Entity injection when opening XML files](yEd/CVE-2020-25215)
     * [CVE-2020-9407 - Information disclsure in cookie](Online_Weather/CVE-2020-9407)
     * [CVE-2020-9406 - Command injection in queryBCP method](Online_Weather/CVE-2020-9406)
     * [CVE-2020-9405 - Reflected XSS in redirect page](Online_Weather/CVE-2020-9405)
@@ -37,3 +39,6 @@ This repositories contains some of the publicly disclosed vulnerabilities that I
     * [CVE-2020-9407 - Information disclsure in cookie](Online_Weather/CVE-2020-9407)
     * [CVE-2020-9406 - Command injection in queryBCP method](Online_Weather/CVE-2020-9406)
     * [CVE-2020-9405 - Reflected XSS in redirect page](Online_Weather/CVE-2020-9405)
+* [yEd](yEd)
+    * [CVE-2020-25216 - XSLT Remote Code Execution in XML when opening XML files together with custom stylesheets](yEd/CVE-2020-25216)
+    * [CVE-2020-25215 - XML External Entity injection when opening XML files](yEd/CVE-2020-25215)
