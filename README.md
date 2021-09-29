@@ -3,11 +3,14 @@
 **Latest release**: 1.0<br />
 **License**: GNU GPL
 
-This repositories contains some of the publicly disclosed vulnerabilities that I have found.
+This repository contains some of the publicly disclosed vulnerabilities that I have found.
 
 
 ## Table of contents - chronologically
 
+* 2021
+    - [CVE-2021-41326 - Command Injection vulnerability in Opendata export](MISP/CVE-2021-41326)
+    - [CVE-2021-37742 - Stored XSS when viewing Galaxy Cluster Relationships](MISP/CVE-2021-37742)
 * 2020
     * [CVE-2020-25216 - XSLT Remote Code Execution in XML when opening XML files together with custom stylesheets](yEd/CVE-2020-25216)
     * [CVE-2020-25215 - XML External Entity injection when opening XML files](yEd/CVE-2020-25215)
@@ -26,7 +29,9 @@ This repositories contains some of the publicly disclosed vulnerabilities that I
     * [CVE-2017-16802 - XSS in the sharingGroupPopulateOrganisations function](MISP/CVE-2017-16802)
 
 ## Table of contents - by product
-* [Malware Information Sharing Platform](MISP)
+* [Open Source Threat Intelligence Platform](MISP)
+    - [CVE-2021-41326 - Command Injection vulnerability in Opendata export](MISP/CVE-2021-41326)
+    - [CVE-2021-37742 - Stored XSS when viewing Galaxy Cluster Relationships](MISP/CVE-2021-37742)
     * [CVE-2020-8894 - Mishandling of discussion threads ACL](MISP/CVE-2020-8894)  
     * [CVE-2020-8893 - Reflected XSS in Galaxy view](MISP/CVE-2020-8893)
     * [CVE-2020-8890 - Bruteforce protection not working in very specific environments](MISP/CVE-2020-8890)
