@@ -9,6 +9,7 @@ This repository contains some of the publicly disclosed vulnerabilities that I h
 ## Table of contents - chronologically
 
 * 2021
+    - [SQL Injection vulnerability in contacts CSV export](Imagicle/CVE)
     - [CVE-2021-41326 - Command Injection vulnerability in Opendata export](MISP/CVE-2021-41326)
     - [CVE-2021-37742 - Stored XSS when viewing Galaxy Cluster Relationships](MISP/CVE-2021-37742)
 * 2020
@@ -29,6 +30,8 @@ This repository contains some of the publicly disclosed vulnerabilities that I h
     * [CVE-2017-16802 - XSS in the sharingGroupPopulateOrganisations function](MISP/CVE-2017-16802)
 
 ## Table of contents - by product
+* [Imagicle](Imagicle)
+    - [SQL Injection vulnerability in contacts CSV export](Imagicle/CVE)
 * [Open Source Threat Intelligence Platform](MISP)
     - [CVE-2021-41326 - Command Injection vulnerability in Opendata export](MISP/CVE-2021-41326)
     - [CVE-2021-37742 - Stored XSS when viewing Galaxy Cluster Relationships](MISP/CVE-2021-37742)
