@@ -9,6 +9,8 @@ This repository contains some of the publicly disclosed vulnerabilities that I h
 ## Table of contents - chronologically
 
 * 2021
+    - [CVE-2021-44726 - DOM-based XSS in a login panel](KNIME/CVE-2021-44726)
+    - [CVE-2021-44725 - Directory Path Traversal in the profiles section](KNIME/CVE-2021-44725)
     - [CVE-2021-42369 - SQL Injection vulnerability in contacts CSV export](Imagicle/CVE-2021-42369)
     - [CVE-2021-41326 - Command Injection vulnerability in Opendata export](MISP/CVE-2021-41326)
     - [CVE-2021-37742 - Stored XSS when viewing Galaxy Cluster Relationships](MISP/CVE-2021-37742)
@@ -30,6 +32,9 @@ This repository contains some of the publicly disclosed vulnerabilities that I h
     * [CVE-2017-16802 - XSS in the sharingGroupPopulateOrganisations function](MISP/CVE-2017-16802)
 
 ## Table of contents - by product
+* [KNIME](KNIME)
+    - [CVE-2021-44726 - DOM-based XSS in a login panel](KNIME/CVE-2021-44726)
+    - [CVE-2021-44725 - Directory Path Traversal in the profiles section](KNIME/CVE-2021-44725)
 * [Imagicle](Imagicle)
     - [CVE-2021-42369 - SQL Injection vulnerability in contacts CSV export](Imagicle/CVE-2021-42369)
 * [Open Source Threat Intelligence Platform](MISP)
