@@ -9,6 +9,8 @@ This repository contains some of the publicly disclosed vulnerabilities that I h
 ## Table of contents - chronologically
 
 * 2021
+    - [CVE - External XML Entity Injection in workflow import](KNIME/CVE-XXE)
+    - [CVE - Weak file permissions when installed in unattended mode](KNIME/CVE-weak-file-permission)
     - [CVE-2021-44726 - DOM-based XSS in a login panel](KNIME/CVE-2021-44726)
     - [CVE-2021-44725 - Directory Path Traversal in the profiles section](KNIME/CVE-2021-44725)
     - [CVE-2021-42369 - SQL Injection vulnerability in contacts CSV export](Imagicle/CVE-2021-42369)
@@ -33,6 +35,8 @@ This repository contains some of the publicly disclosed vulnerabilities that I h
 
 ## Table of contents - by product
 * [KNIME](KNIME)
+    - [CVE - External XML Entity Injection in workflow import](KNIME/CVE-XXE)
+    - [CVE - Weak file permissions when installed in unattended mode](KNIME/CVE-weak-file-permission)
     - [CVE-2021-44726 - DOM-based XSS in a login panel](KNIME/CVE-2021-44726)
     - [CVE-2021-44725 - Directory Path Traversal in the profiles section](KNIME/CVE-2021-44725)
 * [Imagicle](Imagicle)
