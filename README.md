@@ -1,10 +1,9 @@
 # Publicly disclosed vulnerabilities
 
-**Latest release**: 1.0<br />
-**License**: GNU GPL
-
-This repository contains some of the publicly disclosed vulnerabilities that I have found.
-
+> **Warning**
+> This repository is no longer maintained.
+> 
+> Up to date list of vulnerabilities is available at [Zigrin Security Advisories](https://zigrin.com/advisories) page.
 
 ## Table of contents - chronologically
 
